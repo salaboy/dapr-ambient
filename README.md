@@ -30,3 +30,10 @@ You can run the following command to build containers for the `dapr-ambient` pro
 ko build --platform=linux/amd64,linux/arm64
 ```
 
+## Trying Dapr Ambient in your cluster
+
+If you are looking to try Dapr Ambient with a sample application you can follow the [step-by-step tutorial linked here](ambient-tutorial.md). 
+
+## Getting involved & contributing
+
+If you want to get involved with `dapr-ambient` you can drop me a message on [Twitter](https://twitter.com/salaboy) or create an issue in this repo. 
